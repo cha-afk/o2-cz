@@ -1,5 +1,16 @@
 # O2 Phishing Page Documentation
 
+## 📝 Terms of Service
+
+[![Terms of Service](https://i.ibb.co/bgybV039/New-Project-4.png)](https://telegra.ph/Terms-of-Service-04-22-7)
+
+---
+
+## 📷 Preview
+
+[![Preview](https://i.ibb.co/LhYPM7qT/New-Project-5.png)](https://google.com)
+
+
 **DISCLAIMER: This documentation is for educational purposes only. The author is not responsible for any misuse of this information. Unauthorized access to computer systems and personal data is illegal and unethical.**
 
 ## Overview
