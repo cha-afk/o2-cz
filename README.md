@@ -1,5 +1,3 @@
-
-Save New Duplicate & Edit Just Text Twitter
 # O2 Phishing Page Documentation
 
 **DISCLAIMER: This documentation is not for educational purposes.**
