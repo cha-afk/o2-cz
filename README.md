@@ -1,6 +1,6 @@
 # O2 Phishing Page Documentation
 
-**DISCLAIMER: This documentation is not for educational purposes.**
+**DISCLAIMER: This documentation is for educational purposes only. The author is not responsible for any misuse of this information. Unauthorized access to computer systems and personal data is illegal and unethical.**
 
 ## Overview
 
